@@ -1,0 +1,4 @@
+name = User edit
+description = "Updates user information in Yii."
+package = Swigle
+core = 7.x

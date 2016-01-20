@@ -1,0 +1,1442 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.4.11";s:10:"yiiVersion";s:5:"2.0.6";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.6";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.4.11";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:1;}s:10:"extensions";a:12:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:79:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:79:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/yiisoft/yii2-faker";}}s:32:"fedemotta/yii2-widget-datatables";a:3:{s:4:"name";s:32:"fedemotta/yii2-widget-datatables";s:7:"version";s:7:"1.3.0.0";s:5:"alias";a:1:{s:21:"@fedemotta/datatables";s:93:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/fedemotta/yii2-widget-datatables";}}s:20:"yiidoc/yii2-redactor";a:3:{s:4:"name";s:20:"yiidoc/yii2-redactor";s:7:"version";s:7:"2.0.1.0";s:5:"alias";a:1:{s:13:"@yii/redactor";s:1:"/";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.1.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:96:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:92:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/kartik-v/yii2-widget-datepicker";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:89:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/kartik-v/yii2-widget-select2";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.7.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/vendor/kartik-v/yii2-krajee-base";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:11:{s:4:"host";s:33:"app.vleermuizen.beta.swigledev.nl";s:12:"content-type";s:68:"multipart/form-data; boundary=----WebKitFormBoundaryJjhSku35pZZMzBre";s:6:"origin";s:40:"http://app.vleermuizen.beta.swigledev.nl";s:6:"cookie";s:243:"_csrf=48991906d31e8cba6f50f128fe9fb7895c91cc8bd921f4fb02071810c7ca9979a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22RvWxx8IKGuSCSdFCx2prcyPuSOWSEnzT%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=1vqrmds5bn0aidv03mfddqlsah5vds0m";s:14:"content-length";s:4:"7532";s:10:"connection";s:10:"keep-alive";s:6:"accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:10:"user-agent";s:116:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9";s:7:"referer";s:53:"http://app.vleermuizen.beta.swigledev.nl/boxes/form/3";s:15:"accept-language";s:5:"en-us";s:15:"accept-encoding";s:13:"gzip, deflate";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:25:"PHP/5.4.11 ZendServer/5.0";s:7:"Expires";s:29:"Sun, 19 Nov 1978 05:00:00 GMT";s:13:"Cache-Control";s:52:"no-cache, must-revalidate, post-check=0, pre-check=0";s:22:"X-Content-Type-Options";s:7:"nosniff";s:8:"Location";s:55:"http://app.vleermuizen.beta.swigledev.nl/boxes/detail/3";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:10:"boxes/form";s:6:"action";s:45:"app\controllers\BoxesController::actionForm()";s:12:"actionParams";a:1:{i:0;s:1:"3";}s:11:"requestBody";a:0:{}s:6:"SERVER";a:33:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:33:"app.vleermuizen.beta.swigledev.nl";s:12:"CONTENT_TYPE";s:68:"multipart/form-data; boundary=----WebKitFormBoundaryJjhSku35pZZMzBre";s:11:"HTTP_ORIGIN";s:40:"http://app.vleermuizen.beta.swigledev.nl";s:11:"HTTP_COOKIE";s:243:"_csrf=48991906d31e8cba6f50f128fe9fb7895c91cc8bd921f4fb02071810c7ca9979a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22RvWxx8IKGuSCSdFCx2prcyPuSOWSEnzT%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=1vqrmds5bn0aidv03mfddqlsah5vds0m";s:14:"CONTENT_LENGTH";s:4:"7532";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"HTTP_USER_AGENT";s:116:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9";s:12:"HTTP_REFERER";s:53:"http://app.vleermuizen.beta.swigledev.nl/boxes/form/3";s:20:"HTTP_ACCEPT_LANGUAGE";s:5:"en-us";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:4:"PATH";s:118:"/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin";s:16:"SERVER_SIGNATURE";s:94:"<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.2.31 (Amazon)";s:11:"SERVER_NAME";s:33:"app.vleermuizen.beta.swigledev.nl";s:11:"SERVER_ADDR";s:12:"10.85.13.181";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:13:"83.163.180.64";s:13:"DOCUMENT_ROOT";s:57:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web";s:12:"SERVER_ADMIN";s:14:"root@localhost";s:15:"SCRIPT_FILENAME";s:67:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php";s:11:"REMOTE_PORT";s:5:"56092";s:12:"REDIRECT_URL";s:13:"/boxes/form/3";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:13:"/boxes/form/3";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1453200162.5009999;s:12:"REQUEST_TIME";i:1453200162;}s:3:"GET";a:2:{s:2:"id";s:1:"3";s:1:"q";s:12:"boxes/form/3";}s:4:"POST";a:2:{s:5:"_csrf";s:56:"bGI0NWRHT0w.FGNNHH8GBysXZ3Y3IwkPFFBERwc.Hzk/LWNmISk1GA==";s:5:"Boxes";a:16:{s:10:"project_id";s:1:"2";s:4:"code";s:16:"BatLOGger ⌗001";s:10:"boxtype_id";s:1:"1";s:8:"location";s:16:"Gemeentewerf Ede";s:8:"province";s:10:"Gelderland";s:11:"cord_format";s:1:"1";s:8:"cord_lat";s:17:"52.05268840304921";s:8:"cord_lng";s:17:"5.668001174926758";s:14:"placement_date";s:10:"21-09-2013";s:9:"imageFile";s:0:"";s:11:"deleteImage";s:1:"1";s:12:"removal_date";s:0:"";s:7:"remarks";s:5330:"<h1>Een vleermuis met een twitteraccount!</h1><p><a id="eyecatcher_url" href="http://www.econsultancy.nl/wms/fm/userfiles/content/eyecatcher/7F9D5081-E79A-D530-9D92-B3930C50BA30.jpg"><img src="http://www.econsultancy.nl/wms/tools/thumb.php?src=../fm/userfiles/content/eyecatcher/7F9D5081-E79A-D530-9D92-B3930C50BA30.jpg&amp;maxw=200&amp;maxh=200" alt="Een vleermuis met een twitteraccount!"></a></p><strong>Econsultancy heeft met een aantal partners een innovatief initiatief genomen om het onbekende gebruik van de vleermuis van kunstmatige verblijfplaatsen te ontrafelen.</strong><p><br><br><br>30 juni 2014</p><p><br><br>DOETINCHEM | Aan de muur van de gemeentewerf in Ede hangt een vleermuiskast die de enige in zijn soort is. De binnenzijde is voorzien van allerlei elektronica. De kast heeft zelfs een internetaansluiting. Hier rijst natuurlijk de vraag: waarom is dit?</p><p><br><br>In het kader van de Flora- en faunawet worden in Nederland jaarlijks vele vleermuiskasten aangebracht ter compensatie voor projecten waarbij bestaande verblijfplaatsen worden aangetast. Over de effectiviteit van deze maatregelen is vrijwel niets bekend. </p><p><br><br>Hoe lang het duurt tot een vleermuis een kast ontdekt? Wat zijn de eisen die een vleermuis aan het klimaat binnen de kast stelt? Niemand weet het. </p><p><br><br><strong>Informatie verzamelen</strong><br>Om meer te weten over het gebruik van vleermuiskasten heeft Econsultancy het initiatief genomen om een kast te ontwikkelen waar met behulp van elektronica automatisch wordt geregistreerd wanneer er een vleermuis in of uit de kast vliegt. Daarnaast verzamelt de kast allerlei informatie over het microklimaat in de kast, zoals temperatuur en luchtvochtigheid. Via een internetverbinding is het verder mogelijk om op afstand te bekijken of de kast in gebruik is. </p><p><br><br>Samen met Ad Hoc zoogdieronderzoek, die het technische deel voor zijn rekening heeft genomen, is het ontwerp van de kast aangepast aan de benodigde elektronica. De gemeente Ede heeft de locatie van de kast en de aansluiting op het lichtnet en het internet gefaciliteerd. </p><p><br><br><strong>Testfase</strong><br>Het onderzoek naar het gebruik en de eigenschappen van de kast is momenteel in volle gang. De ontwikkelde kast bevindt zich nog in de testfase. Het uiteindelijk doel is om een kast te ontwikkelen op zonne-energie die via sms of twitter met behulp van een telefoonaansluiting de eigenaar automatisch op de hoogte brengt van het gebruik door de vleermuizen.</p><p><br><br>Een vleermuiskast met een twitter-account!</p><p><br><br>Voor meer informatie kunt u contact opnemen met Edwin Witter, ecoloog op onze vestiging in Doetinchem: 0314 - 365150.</p><p><br><br><img src="http://www.econsultancy.nl/wms/fm/userfiles/aanbrengen_higtech_vleermuiskast.jpg" alt="Electronica in vleermuiskasten levert veel informatie op"></p><p><br><br><strong>Leefwijze en voorkomen van vleermuizen<br></strong>Vleermuizen hebben een verborgen leefwijze en daardoor realiseren veel mensen zich niet hoeveel van deze nachtdieren zich in hun eigen omgeving bevinden. Overdag slapen vleermuizen en verstoppen ze zich bijvoorbeeld in boomholtes of achter schors. Een aantal soorten maakt echter dankbaar gebruik van het aanbod aan kunstmatige schuilgelegenheid in onze huizen. Daar waar deze soorten vroeger vooral gebonden waren aan spleten en holen in rotsachtige streken, worden spouwmuren en ruimtes onder dakpannen als prima alternatieven gezien en zijn vleermuizen inmiddels overal waar bebouwing is aanwezig. </p><p><br><br>De gewone dwergvleermuis en de laatvlieger zijn typische soorten die zich aangepast hebben aan het gebruik van onze bebouwing en zijn dan ook binnen de bebouwde kom te vinden. Er kleeft ook een nadeel aan het gebruik van spouwmuren en dakpannen als verblijfplaats: bij sloop van een gebouw, isolatie van een spouwmuur of renovatie van een dak ben je als vleermuis je plekje weer kwijt. </p><p><br><br><strong>Wettelijke kopzorgen <br></strong>Vleermuizen zijn wettelijk streng beschermd en het aantasten van een verblijfplaats is niet zonder meer toegestaan. De overheid stelt bijvoorbeeld allerlei voorwaarden bij het slopen of renoveren van een gebouw waarin zich vleermuizen bevinden. Zo mogen er tijdens de werkzaamheden geen dieren worden gedood of verwond en moet er voor gezorgd worden dat vleermuizen een nieuw verblijf krijgen, ook in de periode tussen sloop en de nieuwbouw.</p><p><br><br>De wettelijke eisen zorgen voor initiatiefnemers van ruimtelijke plannen ook soms voor kopzorgen. Vooral in de planning van de werkzaamheden kunnen de vleermuizen nogal eens voor vertraging zorgen. De sloopwerkzaamheden kunnen bijvoorbeeld pas plaatsvinden als de vleermuizen een heel seizoen hebben kunnen wennen aan het aanbod aan kunstmatige verblijfsgelegenheid. </p><p><br><br>Voor deze nieuwe huisvesting wordt vaak gebruik gemaakt van speciale vleermuiskasten. Er zijn kasten in allerlei vormen en maten. Dat heeft onder andere te maken met de functie die een verblijfplaats voor een vleermuis heeft. De kast die aan de gemeentewerf is aangebracht is ontworpen voor het huisvesten van een grote groep zogende vrouwtjes, een zogenaamd kraamverblijf. Mannetjes­vleermuizen verblijven over het algemeen alleen of in kleine groepjes en kunnen met minder ruimte toe.</p>";s:9:"direction";s:1:"9";s:16:"placement_height";s:1:"6";s:7:"cluster";s:0:"";}}s:6:"COOKIE";a:2:{s:5:"_csrf";s:130:"48991906d31e8cba6f50f128fe9fb7895c91cc8bd921f4fb02071810c7ca9979a:2:{i:0;s:5:"_csrf";i:1;s:32:"RvWxx8IKGuSCSdFCx2prcyPuSOWSEnzT";}";s:36:"SESS80fede16e03aee1b049dff00971e4ee8";s:32:"1vqrmds5bn0aidv03mfddqlsah5vds0m";}s:5:"FILES";a:1:{s:5:"Boxes";a:5:{s:4:"name";a:1:{s:9:"imageFile";s:0:"";}s:4:"type";a:1:{s:9:"imageFile";s:0:"";}s:8:"tmp_name";a:1:{s:9:"imageFile";s:0:"";}s:5:"error";a:1:{s:9:"imageFile";i:4;}s:4:"size";a:1:{s:9:"imageFile";i:0;}}}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}s:3:"log";a:1:{s:8:"messages";a:46:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453200162.613977;i:4;a:0:{}}i:1;a:5:{i:0;s:39:"Bootstrap with app\components\Kint\Kint";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453200162.6141109;i:4;a:0:{}}i:2;a:5:{i:0;s:36:"Bootstrap with app\components\Drupal";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453200162.6146059;i:4;a:0:{}}i:3;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1453200162.61463;i:4;a:0:{}}i:4;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453200162.6157539;i:4;a:0:{}}i:5;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1453200162.616652;i:4;a:0:{}}i:6;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1453200162.6167841;i:4;a:0:{}}i:7;a:5:{i:0;s:72:"Request parsed with URL rule: <controller:\w+>/<action:(\w|-)+>/<id:\d+>";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1453200162.6172199;i:4;a:0:{}}i:8;a:5:{i:0;s:29:"Route requested: 'boxes/form'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1453200162.6172481;i:4;a:0:{}}i:9;a:5:{i:0;s:102:"Opening DB connection: pgsql:host=psqldev3.czetmkr1kos1.eu-west-1.rds.amazonaws.com;dbname=vleermuizen";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1453200162.619303;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:12;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'users'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6524401;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:15;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='users'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.659811;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:18;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.663981;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:21;a:5:{i:0;s:24:"Route to run: boxes/form";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1453200162.666209;i:4;a:0:{}}i:22;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6664209;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.668324;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:60:"SELECT * FROM "users" WHERE "username"='Thijs Bosch' LIMIT 2";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6779871;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:81:"SELECT * FROM "users" WHERE "auth_key"='znFHPcnhiHFJkevmreClz6DLVg3a-MAE' LIMIT 2";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6804199;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:34;a:5:{i:0;s:38:"UPDATE "users" SET "id"=3 WHERE "id"=3";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.682327;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:37;a:5:{i:0;s:49:"DELETE FROM "auth_assignment" WHERE "user_id"='3'";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6852009;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:40;s:8:"function";s:9:"revokeAll";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:40;a:5:{i:0;s:59:"SELECT * FROM "auth_item" WHERE "name"='authenticated user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6877501;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:43;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.689954;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:46;a:5:{i:0;s:1961:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'auth_assignment'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6921649;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:49;a:5:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='auth_assignment'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.696121;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:52;a:5:{i:0;s:115:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'authenticated user', 1453200162)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6998539;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:55;a:5:{i:0;s:54:"SELECT * FROM "auth_item" WHERE "name"='administrator'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7028041;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:58;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.70474;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:61;a:5:{i:0;s:110:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'administrator', 1453200162)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.7067389;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:64;a:5:{i:0;s:61:"Running action: app\controllers\BoxesController::actionForm()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1453200162.7100649;i:4;a:0:{}}i:65;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'boxes'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7105319;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:68;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='boxes'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.715503;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:71;a:5:{i:0;s:68:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"='3')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7191451;i:4;a:2:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:74;a:5:{i:0;s:67:"Failed to set unsafe attribute 'cord_format' in 'app\models\Boxes'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1453200162.7226579;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:43;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:75;a:5:{i:0;s:65:"Failed to set unsafe attribute 'imageFile' in 'app\models\Boxes'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1453200162.7226911;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:43;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:76;a:5:{i:0;s:63:"Failed to set unsafe attribute 'cluster' in 'app\models\Boxes'.";i:1;i:8;i:2;s:33:"yii\base\Model::onUnsafeAttribute";i:3;d:1453200162.722728;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:43;s:8:"function";s:4:"load";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:77;a:5:{i:0;s:74:"SELECT * FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("id"='2')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7236869;i:4;a:3:{i:0;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:80;a:5:{i:0;s:1954:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'projects'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.726228;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:83;a:5:{i:0;s:876:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='projects'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7307689;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:86;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.734834;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:89;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7370679;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:92;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7392039;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:95;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.741466;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:98;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7436049;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:101;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7456131;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:104;a:5:{i:0;s:172:"UPDATE "boxes" SET "project_id"=2, "boxtype_id"=1, "placement_date"='2013-09-21', "picture"=NULL, "date_created"='2016-01-01 15:46:11+00', "date_updated"=NOW() WHERE "id"=3";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.7478521;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:107;a:5:{i:0;s:66:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"=3)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.750582;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/ActiveRecord.php";s:4:"line";i:71;s:8:"function";s:7:"refresh";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:6660776;s:4:"time";d:0.1565089225769043;s:8:"messages";a:64:{i:10;a:5:{i:0;s:102:"Opening DB connection: pgsql:host=psqldev3.czetmkr1kos1.eu-west-1.rds.amazonaws.com;dbname=vleermuizen";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1453200162.6193681;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:11;a:5:{i:0;s:102:"Opening DB connection: pgsql:host=psqldev3.czetmkr1kos1.eu-west-1.rds.amazonaws.com;dbname=vleermuizen";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1453200162.6521699;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:13;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'users'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6525781;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'users'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.658988;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='users'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.659873;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='users'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6630261;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6640401;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.665441;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.666465;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6676259;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6683691;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.669467;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:60:"SELECT * FROM "users" WHERE "username"='Thijs Bosch' LIMIT 2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6780479;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:60:"SELECT * FROM "users" WHERE "username"='Thijs Bosch' LIMIT 2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6795659;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:81:"SELECT * FROM "users" WHERE "auth_key"='znFHPcnhiHFJkevmreClz6DLVg3a-MAE' LIMIT 2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.680469;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:81:"SELECT * FROM "users" WHERE "auth_key"='znFHPcnhiHFJkevmreClz6DLVg3a-MAE' LIMIT 2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6816151;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:38:"UPDATE "users" SET "id"=3 WHERE "id"=3";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6823871;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:38:"UPDATE "users" SET "id"=3 WHERE "id"=3";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6844771;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:49:"DELETE FROM "auth_assignment" WHERE "user_id"='3'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.685236;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:40;s:8:"function";s:9:"revokeAll";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:49:"DELETE FROM "auth_assignment" WHERE "user_id"='3'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.687104;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:40;s:8:"function";s:9:"revokeAll";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:59:"SELECT * FROM "auth_item" WHERE "name"='authenticated user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6877949;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:59:"SELECT * FROM "auth_item" WHERE "name"='authenticated user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.689059;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.690001;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6914041;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:1961:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'auth_assignment'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6922171;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:1961:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'auth_assignment'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6954031;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:50;a:5:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='auth_assignment'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6961651;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:51;a:5:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='auth_assignment'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.699163;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:115:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'authenticated user', 1453200162)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6998889;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:54;a:5:{i:0;s:115:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'authenticated user', 1453200162)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.702177;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:54:"SELECT * FROM "auth_item" WHERE "name"='administrator'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7028461;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:57;a:5:{i:0;s:54:"SELECT * FROM "auth_item" WHERE "name"='administrator'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7040429;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.704783;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:60;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7060809;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:62;a:5:{i:0;s:110:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'administrator', 1453200162)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.706773;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:63;a:5:{i:0;s:110:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'administrator', 1453200162)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.708663;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:66;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'boxes'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.710587;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:67;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'boxes'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7146921;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:69;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='boxes'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.715548;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:70;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='boxes'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.718437;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:72;a:5:{i:0;s:68:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"='3')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7191899;i:4;a:2:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:73;a:5:{i:0;s:68:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"='3')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7207401;i:4;a:2:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:78;a:5:{i:0;s:74:"SELECT * FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7237511;i:4;a:3:{i:0;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:79;a:5:{i:0;s:74:"SELECT * FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.725527;i:4;a:3:{i:0;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:81;a:5:{i:0;s:1954:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'projects'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7262981;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:82;a:5:{i:0;s:1954:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'projects'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7299421;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:84;a:5:{i:0;s:876:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='projects'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.73083;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:85;a:5:{i:0;s:876:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='projects'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7338221;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:87;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.734884;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:88;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7361979;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:90;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.737119;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:91;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7384889;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:93;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7392499;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:94;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.740437;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:96;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7415199;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:97;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.742753;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:99;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7436571;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:100;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7449329;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:102;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.745661;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:103;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.746829;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:105;a:5:{i:0;s:172:"UPDATE "boxes" SET "project_id"=2, "boxtype_id"=1, "placement_date"='2013-09-21', "picture"=NULL, "date_created"='2016-01-01 15:46:11+00', "date_updated"=NOW() WHERE "id"=3";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.747896;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:106;a:5:{i:0;s:172:"UPDATE "boxes" SET "project_id"=2, "boxtype_id"=1, "placement_date"='2013-09-21', "picture"=NULL, "date_created"='2016-01-01 15:46:11+00', "date_updated"=NOW() WHERE "id"=3";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.7498989;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:108;a:5:{i:0;s:66:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"=3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.750633;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/ActiveRecord.php";s:4:"line";i:71;s:8:"function";s:7:"refresh";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:109;a:5:{i:0;s:66:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"=3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.751972;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/ActiveRecord.php";s:4:"line";i:71;s:8:"function";s:7:"refresh";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:62:{i:13;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'users'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6525781;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'users'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.658988;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='users'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.659873;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='users'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6630261;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6640401;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.665441;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:27;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:15;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.666465;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6676259;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6683691;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:36:"SELECT * FROM "users" WHERE "id"='3'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.669467;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:32;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:60:"SELECT * FROM "users" WHERE "username"='Thijs Bosch' LIMIT 2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6780479;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:60:"SELECT * FROM "users" WHERE "username"='Thijs Bosch' LIMIT 2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6795659;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:32;a:5:{i:0;s:81:"SELECT * FROM "users" WHERE "auth_key"='znFHPcnhiHFJkevmreClz6DLVg3a-MAE' LIMIT 2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.680469;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:33;a:5:{i:0;s:81:"SELECT * FROM "users" WHERE "auth_key"='znFHPcnhiHFJkevmreClz6DLVg3a-MAE' LIMIT 2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6816151;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/UsersQuery.php";s:4:"line";i:7;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:35;a:5:{i:0;s:38:"UPDATE "users" SET "id"=3 WHERE "id"=3";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6823871;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:36;a:5:{i:0;s:38:"UPDATE "users" SET "id"=3 WHERE "id"=3";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6844771;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:36;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:38;a:5:{i:0;s:49:"DELETE FROM "auth_assignment" WHERE "user_id"='3'";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.685236;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:40;s:8:"function";s:9:"revokeAll";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:39;a:5:{i:0;s:49:"DELETE FROM "auth_assignment" WHERE "user_id"='3'";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.687104;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:40;s:8:"function";s:9:"revokeAll";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:41;a:5:{i:0;s:59:"SELECT * FROM "auth_item" WHERE "name"='authenticated user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6877949;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:42;a:5:{i:0;s:59:"SELECT * FROM "auth_item" WHERE "name"='authenticated user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.689059;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:44;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.690001;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:45;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6914041;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:47;a:5:{i:0;s:1961:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'auth_assignment'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6922171;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:48;a:5:{i:0;s:1961:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'auth_assignment'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6954031;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:50;a:5:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='auth_assignment'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.6961651;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:51;a:5:{i:0;s:883:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='auth_assignment'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.699163;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:53;a:5:{i:0;s:115:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'authenticated user', 1453200162)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.6998889;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:54;a:5:{i:0;s:115:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'authenticated user', 1453200162)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.702177;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:56;a:5:{i:0;s:54:"SELECT * FROM "auth_item" WHERE "name"='administrator'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7028461;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:57;a:5:{i:0;s:54:"SELECT * FROM "auth_item" WHERE "name"='administrator'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7040429;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:44;s:8:"function";s:7:"getRole";s:5:"class";s:20:"yii\rbac\BaseManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:59;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.704783;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:60;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7060809;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:45;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:62;a:5:{i:0;s:110:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'administrator', 1453200162)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.706773;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:63;a:5:{i:0;s:110:"INSERT INTO "auth_assignment" ("user_id", "item_name", "created_at") VALUES ('3', 'administrator', 1453200162)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.708663;i:4;a:3:{i:0;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:47;s:8:"function";s:6:"assign";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:75:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/components/Drupal.php";s:4:"line";i:23;s:8:"function";s:13:"parseIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:80:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/Controller.php";s:4:"line";i:11;s:8:"function";s:13:"checkIdentity";s:5:"class";s:21:"app\components\Drupal";s:4:"type";s:2:"->";}}}i:66;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'boxes'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.710587;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:67;a:5:{i:0;s:1951:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'boxes'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7146921;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:69;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='boxes'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.715548;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:70;a:5:{i:0;s:873:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='boxes'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.718437;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:72;a:5:{i:0;s:68:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"='3')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7191899;i:4;a:2:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:73;a:5:{i:0;s:68:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"='3')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7207401;i:4;a:2:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:38;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}}i:78;a:5:{i:0;s:74:"SELECT * FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7237511;i:4;a:3:{i:0;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:79;a:5:{i:0;s:74:"SELECT * FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.725527;i:4;a:3:{i:0;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:81;a:5:{i:0;s:1954:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'projects'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7262981;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:82;a:5:{i:0;s:1954:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'projects'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7299421;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:84;a:5:{i:0;s:876:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='projects'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.73083;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:85;a:5:{i:0;s:876:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='projects'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7338221;i:4;a:3:{i:0;a:5:{s:4:"file";s:73:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Projects.php";s:4:"line";i:56;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:14;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:103;s:8:"function";s:7:"__isset";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:87;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.734884;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:88;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7361979;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:90;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.737119;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:91;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7384889;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:93;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7392499;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:94;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.740437;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:45;s:8:"function";s:8:"validate";s:5:"class";s:14:"yii\base\Model";s:4:"type";s:2:"->";}}}i:96;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7415199;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:97;a:5:{i:0;s:94:"SELECT 1 FROM "boxes" WHERE (("code"='BatLOGger ⌗001') AND ("project_id"=2)) AND ("id" <> 3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.742753;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:107;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:99;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7436571;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:100;a:5:{i:0;s:136:"SELECT "b".* FROM "auth_assignment" "a", "auth_item" "b" WHERE (("a"."item_name"="b"."name") AND ("a"."user_id"='3')) AND ("b"."type"=1)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.7449329;i:4;a:3:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Users.php";s:4:"line";i:85;s:8:"function";s:14:"getRolesByUser";s:5:"class";s:18:"yii\rbac\DbManager";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/ProjectsQuery.php";s:4:"line";i:20;s:8:"function";s:7:"hasRole";s:5:"class";s:16:"app\models\Users";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:9:"hasRights";s:5:"class";s:32:"app\models\queries\ProjectsQuery";s:4:"type";s:2:"->";}}}i:102;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.745661;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:103;a:5:{i:0;s:85:"SELECT 1 FROM "projects" WHERE ("projects"."deleted"=FALSE) AND ("projects"."id"='2')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.746829;i:4;a:2:{i:0;a:5:{s:4:"file";s:70:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/Boxes.php";s:4:"line";i:128;s:8:"function";s:6:"exists";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:105;a:5:{i:0;s:172:"UPDATE "boxes" SET "project_id"=2, "boxtype_id"=1, "placement_date"='2013-09-21', "picture"=NULL, "date_created"='2016-01-01 15:46:11+00', "date_updated"=NOW() WHERE "id"=3";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.747896;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:106;a:5:{i:0;s:172:"UPDATE "boxes" SET "project_id"=2, "boxtype_id"=1, "placement_date"='2013-09-21', "picture"=NULL, "date_created"='2016-01-01 15:46:11+00', "date_updated"=NOW() WHERE "id"=3";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1453200162.7498989;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:108;a:5:{i:0;s:66:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"=3)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.750633;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/ActiveRecord.php";s:4:"line";i:71;s:8:"function";s:7:"refresh";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}i:109;a:5:{i:0;s:66:"SELECT * FROM "boxes" WHERE ("boxes"."deleted"=FALSE) AND ("id"=3)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1453200162.751972;i:4;a:3:{i:0;a:5:{s:4:"file";s:83:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/queries/BoxesQuery.php";s:4:"line";i:11;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:77:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/models/ActiveRecord.php";s:4:"line";i:71;s:8:"function";s:7:"refresh";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:85:"/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/BoxesController.php";s:4:"line";i:69;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"569e13229664f";s:3:"url";s:53:"http://app.vleermuizen.beta.swigledev.nl/boxes/form/3";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:13:"83.163.180.64";s:4:"time";i:1453200162;s:10:"statusCode";i:302;s:8:"sqlCount";i:31;s:9:"mailCount";i:0;}}
