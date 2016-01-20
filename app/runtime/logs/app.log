@@ -1,0 +1,260 @@
+2016-01-20 14:16:28 [83.163.180.64][3][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 83.163.180.64
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/main.php:38
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/admin.php:118
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/ProjectsController.php:47
+2016-01-20 14:16:27 [83.163.180.64][3][-][info][application] $_GET = [
+    'id' => '4'
+    'q' => 'projects/detail/4'
+]
+
+$_COOKIE = [
+    '_csrf' => '4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"2UaC0nCTGPT8NDd9foIQj8NMotIVVr7g\";}'
+    'SESS80fede16e03aee1b049dff00971e4ee8' => '5hrhmocfo8k5an99nnkonekeo42db3b1'
+]
+
+$_SESSION = [
+    '__id' => '3'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'app.vleermuizen.beta.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
+    'HTTP_REFERER' => 'http://app.vleermuizen.beta.swigledev.nl/visits/index'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,nl;q=0.6'
+    'HTTP_COOKIE' => '_csrf=4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222UaC0nCTGPT8NDd9foIQj8NMotIVVr7g%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=5hrhmocfo8k5an99nnkonekeo42db3b1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.2.31 (Amazon)'
+    'SERVER_NAME' => 'app.vleermuizen.beta.swigledev.nl'
+    'SERVER_ADDR' => '10.85.13.181'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '83.163.180.64'
+    'DOCUMENT_ROOT' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web'
+    'SERVER_ADMIN' => 'root@localhost'
+    'SCRIPT_FILENAME' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php'
+    'REMOTE_PORT' => '51507'
+    'REDIRECT_URL' => '/projects/detail/4'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/projects/detail/4'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1453299387.661
+    'REQUEST_TIME' => 1453299387
+]
+2016-01-20 14:16:36 [83.163.180.64][3][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 83.163.180.64
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/main.php:38
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/admin.php:118
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/VisitsController.php:46
+2016-01-20 14:16:36 [83.163.180.64][3][-][info][application] $_GET = [
+    'id' => '26'
+    'q' => 'visits/detail/26'
+]
+
+$_COOKIE = [
+    '_csrf' => '4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"2UaC0nCTGPT8NDd9foIQj8NMotIVVr7g\";}'
+    'SESS80fede16e03aee1b049dff00971e4ee8' => '5hrhmocfo8k5an99nnkonekeo42db3b1'
+]
+
+$_SESSION = [
+    '__id' => '3'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'app.vleermuizen.beta.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
+    'HTTP_REFERER' => 'http://app.vleermuizen.beta.swigledev.nl/visits/index'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,nl;q=0.6'
+    'HTTP_COOKIE' => '_csrf=4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222UaC0nCTGPT8NDd9foIQj8NMotIVVr7g%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=5hrhmocfo8k5an99nnkonekeo42db3b1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.2.31 (Amazon)'
+    'SERVER_NAME' => 'app.vleermuizen.beta.swigledev.nl'
+    'SERVER_ADDR' => '10.85.13.181'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '83.163.180.64'
+    'DOCUMENT_ROOT' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web'
+    'SERVER_ADMIN' => 'root@localhost'
+    'SCRIPT_FILENAME' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php'
+    'REMOTE_PORT' => '51509'
+    'REDIRECT_URL' => '/visits/detail/26'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/visits/detail/26'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1453299396.236
+    'REQUEST_TIME' => 1453299396
+]
+2016-01-20 14:16:51 [83.163.180.64][3][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 83.163.180.64
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/main.php:38
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/admin.php:118
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/ProjectsController.php:47
+2016-01-20 14:16:50 [83.163.180.64][3][-][info][application] $_GET = [
+    'id' => '15'
+    'q' => 'projects/detail/15'
+]
+
+$_COOKIE = [
+    '_csrf' => '4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"2UaC0nCTGPT8NDd9foIQj8NMotIVVr7g\";}'
+    'SESS80fede16e03aee1b049dff00971e4ee8' => '5hrhmocfo8k5an99nnkonekeo42db3b1'
+]
+
+$_SESSION = [
+    '__id' => '3'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'app.vleermuizen.beta.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
+    'HTTP_REFERER' => 'http://app.vleermuizen.beta.swigledev.nl/visits/index'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,nl;q=0.6'
+    'HTTP_COOKIE' => '_csrf=4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222UaC0nCTGPT8NDd9foIQj8NMotIVVr7g%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=5hrhmocfo8k5an99nnkonekeo42db3b1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.2.31 (Amazon)'
+    'SERVER_NAME' => 'app.vleermuizen.beta.swigledev.nl'
+    'SERVER_ADDR' => '10.85.13.181'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '83.163.180.64'
+    'DOCUMENT_ROOT' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web'
+    'SERVER_ADMIN' => 'root@localhost'
+    'SCRIPT_FILENAME' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php'
+    'REMOTE_PORT' => '51518'
+    'REDIRECT_URL' => '/projects/detail/15'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/projects/detail/15'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1453299407.079
+    'REQUEST_TIME' => 1453299407
+]
+2016-01-20 14:17:00 [83.163.180.64][3][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 83.163.180.64
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/main.php:38
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/admin.php:118
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/VisitsController.php:46
+2016-01-20 14:17:00 [83.163.180.64][3][-][info][application] $_GET = [
+    'id' => '36'
+    'q' => 'visits/detail/36'
+]
+
+$_COOKIE = [
+    '_csrf' => '4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"2UaC0nCTGPT8NDd9foIQj8NMotIVVr7g\";}'
+    'SESS80fede16e03aee1b049dff00971e4ee8' => '5hrhmocfo8k5an99nnkonekeo42db3b1'
+]
+
+$_SESSION = [
+    '__id' => '3'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'app.vleermuizen.beta.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
+    'HTTP_REFERER' => 'http://app.vleermuizen.beta.swigledev.nl/projects/detail/15'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,nl;q=0.6'
+    'HTTP_COOKIE' => '_csrf=4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222UaC0nCTGPT8NDd9foIQj8NMotIVVr7g%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=5hrhmocfo8k5an99nnkonekeo42db3b1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.2.31 (Amazon)'
+    'SERVER_NAME' => 'app.vleermuizen.beta.swigledev.nl'
+    'SERVER_ADDR' => '10.85.13.181'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '83.163.180.64'
+    'DOCUMENT_ROOT' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web'
+    'SERVER_ADMIN' => 'root@localhost'
+    'SCRIPT_FILENAME' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php'
+    'REMOTE_PORT' => '51519'
+    'REDIRECT_URL' => '/visits/detail/36'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/visits/detail/36'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1453299420.046
+    'REQUEST_TIME' => 1453299420
+]
+2016-01-20 14:23:36 [83.163.180.64][3][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 83.163.180.64
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/main.php:38
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/views/layouts/admin.php:118
+    in /export/home/app.vleermuizen.beta.swigledev.nl/htdocs/controllers/ProjectsController.php:47
+2016-01-20 14:23:36 [83.163.180.64][3][-][info][application] $_GET = [
+    'id' => '15'
+    'q' => 'projects/detail/15'
+]
+
+$_COOKIE = [
+    '_csrf' => '4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"2UaC0nCTGPT8NDd9foIQj8NMotIVVr7g\";}'
+    'SESS80fede16e03aee1b049dff00971e4ee8' => '5hrhmocfo8k5an99nnkonekeo42db3b1'
+]
+
+$_SESSION = [
+    '__id' => '3'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'app.vleermuizen.beta.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
+    'HTTP_REFERER' => 'http://app.vleermuizen.beta.swigledev.nl/visits/index'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.8,nl;q=0.6'
+    'HTTP_COOKIE' => '_csrf=4c558b2ddc00cbcc865e2081a9a59899574a68e0639c3b4d89b972ca5ac4a526a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%222UaC0nCTGPT8NDd9foIQj8NMotIVVr7g%22%3B%7D; SESS80fede16e03aee1b049dff00971e4ee8=5hrhmocfo8k5an99nnkonekeo42db3b1'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/aws/bin:/root/bin:/usr/local/zend/bin:/usr/local/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.2.31 (Amazon) Server at app.vleermuizen.beta.swigledev.nl Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.2.31 (Amazon)'
+    'SERVER_NAME' => 'app.vleermuizen.beta.swigledev.nl'
+    'SERVER_ADDR' => '10.85.13.181'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '83.163.180.64'
+    'DOCUMENT_ROOT' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web'
+    'SERVER_ADMIN' => 'root@localhost'
+    'SCRIPT_FILENAME' => '/export/home/app.vleermuizen.beta.swigledev.nl/htdocs/web/index.php'
+    'REMOTE_PORT' => '49220'
+    'REDIRECT_URL' => '/projects/detail/15'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/projects/detail/15'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1453299815.973
+    'REQUEST_TIME' => 1453299815
+]

@@ -1,0 +1,265 @@
+2015-11-16 17:17:08 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class app\components\Kint\Kint does not exist' in /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('app\\components\\...')
+#1 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('app\\components\\...')
+#2 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('app\\components\\...', Array, Array)
+#3 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('app\\components\\...', Array, Array)
+#4 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('kint')
+#6 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#7 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#8 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#9 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#10 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/web/index.php(12): yii\base\Application->__construct(Array)
+#11 {main}
+2015-11-16 17:17:08 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"0H1_RX01ll-pUhx6WRuocdw6y9qODUGY\";}'
+    'SESS57b03c6e7734ec8771eead3a1f6237ae' => '8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474'
+    'has_js' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'vleermuizen.dev.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'nl-NL,nl;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220H1_RX01ll-pUhx6WRuocdw6y9qODUGY%22%3B%7D; SESS57b03c6e7734ec8771eead3a1f6237ae=8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474; has_js=1'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0'
+    'SERVER_NAME' => 'vleermuizen.dev.swigledev.nl'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs'
+    'SERVER_ADMIN' => 'delano@swigle.com'
+    'SCRIPT_FILENAME' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs/app/index.php'
+    'REMOTE_PORT' => '60952'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/app/'
+    'SCRIPT_NAME' => '/app/index.php'
+    'PHP_SELF' => '/app/index.php'
+    'REQUEST_TIME_FLOAT' => 1447690628.48
+    'REQUEST_TIME' => 1447690628
+    'argv' => []
+    'argc' => 0
+]
+2015-11-16 17:18:42 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class app\components\Kint\Kint does not exist' in /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('app\\components\\...')
+#1 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('app\\components\\...')
+#2 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('app\\components\\...', Array, Array)
+#3 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('app\\components\\...', Array, Array)
+#4 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('kint')
+#6 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#7 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#8 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#9 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#10 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/web/index.php(12): yii\base\Application->__construct(Array)
+#11 {main}
+2015-11-16 17:18:42 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"0H1_RX01ll-pUhx6WRuocdw6y9qODUGY\";}'
+    'SESS57b03c6e7734ec8771eead3a1f6237ae' => '8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474'
+    'has_js' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'vleermuizen.dev.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'nl-NL,nl;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220H1_RX01ll-pUhx6WRuocdw6y9qODUGY%22%3B%7D; SESS57b03c6e7734ec8771eead3a1f6237ae=8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474; has_js=1'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0'
+    'SERVER_NAME' => 'vleermuizen.dev.swigledev.nl'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs'
+    'SERVER_ADMIN' => 'delano@swigle.com'
+    'SCRIPT_FILENAME' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs/app/index.php'
+    'REMOTE_PORT' => '60962'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/app/'
+    'SCRIPT_NAME' => '/app/index.php'
+    'PHP_SELF' => '/app/index.php'
+    'REQUEST_TIME_FLOAT' => 1447690722.02
+    'REQUEST_TIME' => 1447690722
+    'argv' => []
+    'argc' => 0
+]
+2015-11-16 17:20:36 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class @app\components\Kint\Kint does not exist' in /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('@app\\components...')
+#1 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('@app\\components...')
+#2 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('@app\\components...', Array, Array)
+#3 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('@app\\components...', Array, Array)
+#4 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('kint')
+#6 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#7 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#8 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#9 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#10 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/web/index.php(12): yii\base\Application->__construct(Array)
+#11 {main}
+2015-11-16 17:20:36 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"0H1_RX01ll-pUhx6WRuocdw6y9qODUGY\";}'
+    'SESS57b03c6e7734ec8771eead3a1f6237ae' => '8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474'
+    'has_js' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'vleermuizen.dev.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'nl-NL,nl;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220H1_RX01ll-pUhx6WRuocdw6y9qODUGY%22%3B%7D; SESS57b03c6e7734ec8771eead3a1f6237ae=8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474; has_js=1'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0'
+    'SERVER_NAME' => 'vleermuizen.dev.swigledev.nl'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs'
+    'SERVER_ADMIN' => 'delano@swigle.com'
+    'SCRIPT_FILENAME' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs/app/index.php'
+    'REMOTE_PORT' => '60966'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/app/'
+    'SCRIPT_NAME' => '/app/index.php'
+    'PHP_SELF' => '/app/index.php'
+    'REQUEST_TIME_FLOAT' => 1447690836.57
+    'REQUEST_TIME' => 1447690836
+    'argv' => []
+    'argc' => 0
+]
+2015-11-16 17:20:37 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class @app\components\Kint\Kint does not exist' in /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('@app\\components...')
+#1 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('@app\\components...')
+#2 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('@app\\components...', Array, Array)
+#3 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('@app\\components...', Array, Array)
+#4 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('kint')
+#6 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#7 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#8 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#9 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#10 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/web/index.php(12): yii\base\Application->__construct(Array)
+#11 {main}
+2015-11-16 17:20:37 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"0H1_RX01ll-pUhx6WRuocdw6y9qODUGY\";}'
+    'SESS57b03c6e7734ec8771eead3a1f6237ae' => '8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474'
+    'has_js' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'vleermuizen.dev.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'nl-NL,nl;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220H1_RX01ll-pUhx6WRuocdw6y9qODUGY%22%3B%7D; SESS57b03c6e7734ec8771eead3a1f6237ae=8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474; has_js=1'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0'
+    'SERVER_NAME' => 'vleermuizen.dev.swigledev.nl'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs'
+    'SERVER_ADMIN' => 'delano@swigle.com'
+    'SCRIPT_FILENAME' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs/app/index.php'
+    'REMOTE_PORT' => '60967'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/app/'
+    'SCRIPT_NAME' => '/app/index.php'
+    'PHP_SELF' => '/app/index.php'
+    'REQUEST_TIME_FLOAT' => 1447690837.32
+    'REQUEST_TIME' => 1447690837
+    'argv' => []
+    'argc' => 0
+]
+2015-11-16 17:22:56 [127.0.0.1][-][-][error][ReflectionException] exception 'ReflectionException' with message 'Class @app\components\Kint\Kint does not exist' in /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php:415
+Stack trace:
+#0 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(415): ReflectionClass->__construct('@app\\components...')
+#1 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(358): yii\di\Container->getDependencies('@app\\components...')
+#2 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/Container.php(151): yii\di\Container->build('@app\\components...', Array, Array)
+#3 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/BaseYii.php(344): yii\di\Container->get('@app\\components...', Array, Array)
+#4 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/di/ServiceLocator.php(133): yii\BaseYii::createObject(Array)
+#5 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(302): yii\di\ServiceLocator->get('kint')
+#6 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/web/Application.php(63): yii\base\Application->bootstrap()
+#7 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(267): yii\web\Application->bootstrap()
+#8 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Object.php(107): yii\base\Application->init()
+#9 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/vendor/yiisoft/yii2/base/Application.php(206): yii\base\Object->__construct(Array)
+#10 /Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/yii/web/index.php(12): yii\base\Application->__construct(Array)
+#11 {main}
+2015-11-16 17:22:56 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '_csrf' => '23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"0H1_RX01ll-pUhx6WRuocdw6y9qODUGY\";}'
+    'SESS57b03c6e7734ec8771eead3a1f6237ae' => '8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474'
+    'has_js' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'vleermuizen.dev.swigledev.nl'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'nl-NL,nl;q=0.8,en-US;q=0.6,en;q=0.4'
+    'HTTP_COOKIE' => '_csrf=23767373b34278874db29cf38426172e3e7b43f773beb4c0a2f190fbb17ce1b3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220H1_RX01ll-pUhx6WRuocdw6y9qODUGY%22%3B%7D; SESS57b03c6e7734ec8771eead3a1f6237ae=8QFlNM4Acr-IIg7v90dd9s_DJ38venrQ7ST2CPOf474; has_js=1'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0'
+    'SERVER_NAME' => 'vleermuizen.dev.swigledev.nl'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs'
+    'SERVER_ADMIN' => 'delano@swigle.com'
+    'SCRIPT_FILENAME' => '/Users/delanoderooij/Zend/workspaces/DefaultWorkspace/Vleermuiskasten.nl/htdocs/app/index.php'
+    'REMOTE_PORT' => '60978'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/app/'
+    'SCRIPT_NAME' => '/app/index.php'
+    'PHP_SELF' => '/app/index.php'
+    'REQUEST_TIME_FLOAT' => 1447690976.87
+    'REQUEST_TIME' => 1447690976
+    'argv' => []
+    'argc' => 0
+]

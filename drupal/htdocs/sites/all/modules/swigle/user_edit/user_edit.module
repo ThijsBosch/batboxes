@@ -1,0 +1,7 @@
+<?php
+function user_edit_user_update(&$edit, $account, $category) {
+  shell_exec("wget http://app.vleermuizen.beta.swigledev.nl/index/drupal-user/".$account->uid." > /dev/null &");
+}
+function user_edit_user_insert(&$edit, $account, $category) {
+  shell_exec("wget http://app.vleermuizen.beta.swigledev.nl/index/drupal-user/".$account->uid." > /dev/null &");
+}
