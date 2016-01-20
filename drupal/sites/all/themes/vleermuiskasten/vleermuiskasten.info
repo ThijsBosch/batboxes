@@ -1,0 +1,24 @@
+base theme      = bootstrap
+name            = Vleermuiskasten
+description     = Vleermuiskasten thema
+core            = 7.x
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+regions[header]     = 'Header'
+regions[left-menu]  = 'Left Menu'
+regions[right-menu] = 'Right Menu'
+regions[middle]     = 'Middle'
+regions[content]    = 'Content'
+regions[footer]     = 'Footer'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; CSS
+;;;;;;;;;;;;;;;;;;;;;
+stylesheets[all][] = 'css/main.css'
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Javascripts
+;;;;;;;;;;;;;;;;;;;;;
+scripts[] = 'js/search.js'

@@ -1,0 +1,13 @@
+name=R
+description=R Filter
+core=7.x
+version = 1.0
+configure = admin/config/content/r
+
+
+; Information added by drupal.org packaging script on 2013-10-05
+version = "7.x-1.3"
+core = "7.x"
+project = "r"
+datestamp = "1381009451"
+
